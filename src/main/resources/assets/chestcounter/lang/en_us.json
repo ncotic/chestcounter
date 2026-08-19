@@ -1,0 +1,5 @@
+{
+  "chestcounter.count.stop": "Stopped after %s ticks. Checking containers...",
+  "chestcounter.count.write_file": "Wrote to file %s and logs",
+  "chestcounter.count.write": "Wrote to file and logs"
+}
